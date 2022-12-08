@@ -8,7 +8,21 @@ permalink: /research/
 
 \* below = equal contributions.
 
-I've worked on a diverse set of topics, but underlying all my interests is a driving wish to make sense of biomolecular structure ensembles using principled modelling approaches and large bioinformatics datasets, and to test model predictions with actual experiments.
+I've worked on a diverse set of topics, but underlying all my interests is a wish to make sense of biomolecular structure ensembles using principled modelling approaches and large bioinformatics datasets, and to test model predictions with actual experiments.
+
+## Predicting multiple conformations of known and putative fold-switching proteins
+
+<p>
+<img src="https://hwaymentsteele.github.io/images/foldswitchers.png" style="float:right;width:400px;">
+
+AlphaFold2 (AF2) has revolutionized structural biology by accurately predicting single structures of proteins, but biological function is rooted in a protein’s ability to sample different conformational substates. We demonstrated that simply clustering an input multiple sequence alignment (MSA) by sequence similarity enables AF2 to sample alternate states of known metamorphic proteins and score these states with high confidence. We used our clustering method, AF-cluster, to screen for alternate states in protein families without known fold-switching, and identified a putative alternate state for the oxidoreductase DsbE. Similarly to KaiB, DsbE is predicted to switch between a thioredoxin-like fold and a novel fold. This prediction is the subject of ongoing experimental testing in the Kern lab.
+  
+I'm really excited about what AF-cluster and future methodological improvements could enable -- the ability to systematically screen for interesting novel mechanisms based on multiple conformational substates, and discover new biology from the ground up.
+  
+Wayment-Steele, H.K., Ovchinnikov, S., Colwell, L.J., Kern, D. (2022) Prediction of multiple conformational states by combining sequence clustering with AlphaFold2. [bioRxiv](https://doi.org/10.1101/2022.10.17.512570)
+</p>
+
+
 
 ## Designing stabilized mRNA therapeutics
 
@@ -23,9 +37,9 @@ I was also delighted to share this work with Washington High in Fremont, CA at t
 
 **Wayment-Steele, H. K.**, Kim, D. S., Choe, C. A., Nicol, J. J., Wellington-Oguri, R., Watkins, A. M., . . . Das, R. (2021). Theoretical basis for stabilizing messenger RNA through secondary structure design. Nucleic Acids Res, 49(18), 10604-10617.
 
-Leppek, K.\*, Byeon, G. W.\*, Kladwang, W.\*, **Wayment-Steele, H. K.\***, Kerr, C. H.\*, Xu, A. F., . . . Dormitzer, P., Solorzano, A., Barna, M., Das, R. (2021). Combinatorial optimization of mRNA structure, stability, and translation for RNA-based therapeutics. Nature Communications (In Press).
+Leppek, K.\*, Byeon, G. W.\*, Kladwang, W.\*, **Wayment-Steele, H. K.\***, Kerr, C. H.\*, Xu, A. F., . . . Dormitzer, P., Solorzano, A., Barna, M., Das, R. (2021). Combinatorial optimization of mRNA structure, stability, and translation for RNA-based therapeutics. Nature Communications.
 
-**Wayment-Steele, H. K.\***, Kladwang, W.\*, Watkins, A. M.\*, Kim, D. S.\*, Tunguz, B.\*, Reade, W., ... & Das, R. (2021). Predictive models of RNA degradation through dual crowdsourcing. arXiv.
+**Wayment-Steele, H. K.\***, Kladwang, W.\*, Watkins, A. M.\*, Kim, D. S.\*, Tunguz, B.\*, Reade, W., ... & Das, R. (2021). Predictive models of RNA degradation through dual crowdsourcing. Nature Machine Intelligence (In Press).
 
 ## Improving RNA ensemble prediction and design
 
