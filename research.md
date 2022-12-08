@@ -8,7 +8,7 @@ permalink: /research/
 
 \* below = equal contributions.
 
-I've worked on a diverse set of topics, but underlying all my research is a wish for predictive models of biomolecular structure ensembles by leveraging state-of-the-art advances such as high-throughput experiments, crowdsourcing, and deep learning, but still grounding modelling approaches in chemical and physical principles. Most of the research below has prioritized testable predictions that have been validated with actual experiments.
+I've worked on a diverse set of topics, but underlying all my research is a wish for a predictive understanding of biomolecular structure ensembles by leveraging novel tools such as high-throughput experiments, crowdsourcing, and deep learning, but grounded in chemical and physical principles. Most of the research below has prioritized testable predictions that have been validated with actual experiments.
 
 ## Predicting multiple conformations of known and putative fold-switching proteins
 
