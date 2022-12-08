@@ -16,13 +16,11 @@ I've worked on a diverse set of topics, but underlying all my interests is a wis
 <img src="https://hwaymentsteele.github.io/images/foldswitchers.png" style="float:right;width:400px;">
 
 AlphaFold2 (AF2) has revolutionized structural biology by accurately predicting single structures of proteins, but biological function is rooted in a protein’s ability to sample different conformational substates. We demonstrated that simply clustering an input multiple sequence alignment (MSA) by sequence similarity enables AF2 to sample alternate states of known metamorphic proteins and score these states with high confidence. We used our clustering method, AF-cluster, to screen for alternate states in protein families without known fold-switching, and identified a putative alternate state for the oxidoreductase DsbE. Similarly to KaiB, DsbE is predicted to switch between a thioredoxin-like fold and a novel fold. This prediction is the subject of ongoing experimental testing in the Kern lab.
-  
+</p>
+
 I'm really excited about what AF-cluster and future methodological improvements could enable -- the ability to systematically screen for interesting novel mechanisms based on multiple conformational substates, and discover new biology from the ground up.
   
 Wayment-Steele, H.K., Ovchinnikov, S., Colwell, L.J., Kern, D. (2022) Prediction of multiple conformational states by combining sequence clustering with AlphaFold2. [bioRxiv](https://doi.org/10.1101/2022.10.17.512570)
-</p>
-
-
 
 ## Designing stabilized mRNA therapeutics
 
