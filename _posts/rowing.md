@@ -26,4 +26,4 @@ In 2022 we took 1st place in the Head of the Charles Womens Club 8+.
 <img src="https://HWaymentSteele.github.io/images/HOCR_2022.jpg">
 Image credit: Igor Belakovskiy
 
-<img src="https://HWaymentSteele.github.io/images/IMG_5379.jpg">
+<img src="https://HWaymentSteele.github.io/images/IMG_5379.png">
