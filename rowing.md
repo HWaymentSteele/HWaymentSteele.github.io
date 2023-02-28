@@ -26,7 +26,8 @@ In 2022 we took 1st place in the Head of the Charles Womens Club 8+.
 <img src="https://HWaymentSteele.github.io/images/HOCR_2022.jpg">
 Image credit: Igor Belakovskiy
 
+---
 
-It's even possible to smile sometimes while rowing!
+Sometimes we even smile while rowing!
 
 <img src="https://HWaymentSteele.github.io/images/IMG_5379.png"  style="float:center;width:400px;">
