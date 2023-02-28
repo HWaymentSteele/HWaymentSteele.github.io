@@ -5,7 +5,7 @@ permalink: /rowing/
 ---
 
 I caught the bug for rowing while studying at Cambridge University, and was very fortunate to find
-the (Bair Island Aquatic Center)[https://gobair.org/] rowing community during my PhD. With their support,
+the [Bair Island Aquatic Center](https://gobair.org/) rowing community during my PhD. With their support,
 I represented the USA in the World Rowing Coastal Championships in 2019 and 2021. 
 
 2019: 9th overall in the Womens Coastal Solo
