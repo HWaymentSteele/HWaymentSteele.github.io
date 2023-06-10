@@ -15,9 +15,9 @@ please excuse my lack of capital letters, because i am a bug. typing is difficul
 however, you will be delighted to learn that i am a poet\
 free verse is my specialty"
 
-Somehow, I was actually accepted. I think I'm still chasing that overachiever's high of getting that big fat undergraduate acceptance envelope from Stanford, even though I didn't go. Maybe it's better that way, there's always a warm fuzzy alternate universe in which I was a Stanford undergraduate. Heck, I could have been a founder by now.
+Somehow, I was actually accepted. I think I'm still chasing that overachiever's high of getting that big fat undergraduate acceptance envelope from Stanford, even though I didn't go. Maybe it's better that way, there's always a warm fuzzy alternate universe in which I was a Stanford undergraduate. I could have dropped out and been a founder by now.
 
-My high school self would be rather shocked with my current self. I ask questions in seminars and don’t preface them with “sorry”. I form opinions! A mentor in grad school said that forming opinions is a good practice, because then you can see if you were right or not and develop your judgement. He said he was wrong about Jennifer Doudna and CRISPR.
+My high school self would still be rather shocked with my current self. I ask questions in seminars and don’t preface them with “sorry”. I form opinions! A mentor in grad school said that forming opinions is a good practice, because then you can see if you were right or not and develop your judgement. He said he was wrong about Jennifer Doudna and CRISPR.
 
 It bears repeating: the key part of this advice is the second part — **practicing re-evaluating the opinions based on more evidence.** Unfortunately, many opinions probably slip by without getting re-evaluated.
 
