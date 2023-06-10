@@ -15,7 +15,7 @@ please excuse my lack of capital letters, because i am a bug. typing is difficul
 however, you will be delighted to learn that i am a poet\
 free verse is my specialty"
 
-Somehow, I was actually accepted.
+Somehow, I was actually accepted. I think I'm still chasing that overachiever achievement-high of getting that fat acceptance envelope from Stanford, even though I didn't go.
 
 My high school self would be rather shocked with my current self. I ask questions in seminars and don’t preface them with “sorry”. I form opinions! A mentor in grad school said that forming opinions is a good practice, because then you can see if you were right or not and develop your judgement. He said he was wrong about Jennifer Doudna and CRISPR.
 
