@@ -19,7 +19,7 @@ Somehow, I was actually accepted. I think I'm still chasing that overachiever's 
 
 My high school self would still be rather shocked with my current self. I ask questions in seminars and don’t preface them with “sorry”. I form opinions! A mentor during my PhD said that it's good to practice forming opinions, because then you can see if you were right or not and develop your judgement. He said he was wrong about Jennifer Doudna and CRISPR.
 
-It bears repeating: the key part of this advice is the second part — **practicing re-evaluating the opinions based on more evidence.** Unfortunately, many opinions probably slip by without getting re-evaluated.
+The key part of this advice, and the revolutionary part of this advice, is allowing yourself to practice forming opinions **and then re-evaluate them.** Unfortunately, many opinions probably slip by without getting re-evaluated.
 
 Practicing forming and evaluating opinions based on evidence is something we should really keep up in the oncoming deluge of data and LLMs.  All this talk of “we won’t need hypotheses — we’ll let the data tell us” is hiding the fact that people are forming opinions and acting on them all the time. It’s misleading to think otherwise. Sure, your hypotheses can get more high-level. But tell me what they are.
 
