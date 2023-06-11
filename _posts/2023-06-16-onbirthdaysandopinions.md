@@ -8,6 +8,12 @@ I’ve been spending a lot of the last ~20 years trying to achieve things. Who k
 
 One time my English teacher praised my writing when we were writing about Virginia Woolf’s Mrs. Dalloway. She was showing the class examples of good essays, and one of her examples was mine. I had methodically collected examples of Woolf’s use of bird imagery for women, some of which even our teacher hadn’t picked up on. Collecting bird imagery sounds like something I would do. An LLM can do that too, I bet. I don't remember what point I was trying to make about Virginia Woolf, birds, and women. Unfortunately that's probably the part a LLM would have a tougher time recreating.
 
+My high school self would be rather shocked with my current self. I ask questions in seminars and don’t preface them with “sorry”. I form opinions! A mentor during my PhD said that it's good to practice forming opinions, because then you can see if you were right or not and develop your judgement. He said he was wrong about Jennifer Doudna and CRISPR.
+
+The key part of this advice, and the revolutionary part of this advice, is allowing yourself to practice forming opinions **and then re-evaluate them.** Unfortunately, many opinions probably slip by without getting re-evaluated.
+
+Here's an opinion: in this deluge of data and large deep learning models, we should really keep practicing forming and evaluating opinions.  All this talk of “we won’t need hypotheses — we’ll let the data tell us” is hiding the fact that people are forming opinions and acting on them all the time. It’s misleading to think otherwise. Sure, your hypotheses can get more high-level. But tell me what they are.
+
 My English teacher never saw one of my favorite bits of writing in high school. This was a college application essay for Stanford. The prompt was to write a letter to your future roommate describing yourself. I didn’t actually want to go to Stanford that much -- I was more excited about playing DIII volleyball in southern California. (Yes! a privilege to apply somewhere I wasn't dying to go.) My essay started with:
 
 "dear future roommate\
@@ -18,12 +24,6 @@ free verse is my specialty"
 And somehow, I was actually accepted.
 
 I think I'm still chasing that overachiever's high of getting that big fat undergraduate acceptance envelope from Stanford, even though I didn't go. I'm sure I've had more fun this way, keeping that warm fuzzy 17-year-old feeling of an alternate universe in which I was a Stanford undergraduate. I could have dropped out and been a founder by now.
-
-My high school self would still be rather shocked with my current self. I ask questions in seminars and don’t preface them with “sorry”. I form opinions! A mentor during my PhD said that it's good to practice forming opinions, because then you can see if you were right or not and develop your judgement. He said he was wrong about Jennifer Doudna and CRISPR.
-
-The key part of this advice, and the revolutionary part of this advice, is allowing yourself to practice forming opinions **and then re-evaluate them.** Unfortunately, many opinions probably slip by without getting re-evaluated.
-
-Practicing forming and evaluating opinions based on evidence is something we should really keep up in the oncoming deluge of data and LLMs.  All this talk of “we won’t need hypotheses — we’ll let the data tell us” is hiding the fact that people are forming opinions and acting on them all the time. It’s misleading to think otherwise. Sure, your hypotheses can get more high-level. But tell me what they are.
 
 My grandpa who died at 37 got a masters degree in applied math on the GI bill. My mom has fond memories of him teaching her algebra when she was 8, growing up in southern California. Girls can do anything, is what he wanted her to know. His death caused earthquake tremors that my family still feels today. I wish I could have met him. I got an undergrad degree in math, and I married a mathematician. My husband and my grandpa would have loved to talk, I’m sure.
 
