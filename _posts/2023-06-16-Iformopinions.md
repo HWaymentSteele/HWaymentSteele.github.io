@@ -1,4 +1,7 @@
-# I form opinions
+---
+layout: post
+title: I form opinions
+---
 
 I’m going to turn 30 this week and I want to practice writing more. Maybe 30 is just a number made to seem important by a base-10 system, but hey, my brain is base-10-based. My mom had me when she was 36. My grandpa died of cancer at age 37. Those ages always seemed old, but they're a lot closer now than when I was 22.
 
