@@ -8,9 +8,13 @@ I’ve been spending a lot of the last ~20 years trying to achieve things. Who k
 
 I do remember my English teacher praising one of my essays when we were reading Mrs. Dalloway. I had methodically collected examples of Virginia Woolf’s use of bird imagery for women, some of which even our teacher hadn’t picked up on. Collecting bird imagery sounds like something I would do. An LLM can do that too, I bet. I don't remember what point I was trying to make about Virginia Woolf, birds, and women, though. That's the part a LLM would have a tougher time with -- recreating high school Hannah's perspective. Something about all 3 feeling trapped and fragile?
 
-My high school self would be rather shocked with my current self. I ask questions in seminars and don’t preface them with “sorry”. I form opinions! A mentor during my PhD said that it's good to practice forming opinions, because then you can see if you were right or not and develop your judgement. He said he was wrong about Jennifer Doudna and CRISPR.
+My high school self would be rather shocked with my current self.
 
-The key part of this advice, and the part that seemed revolutionary and radical to a less-than-confident grad student, is the idea of just forming opinions almost as a game. **You don't have to be correct! But you have to try to evaluate your opinions.** Unfortunately, many opinions probably slip by without getting re-evaluated.
+I ask questions in seminars and don’t preface them with “sorry”.
+
+I form opinions! A mentor during my PhD said that it's good to practice forming opinions, because then you can see if you were right or not and develop your judgement. He said he was wrong about Jennifer Doudna and CRISPR.
+
+The key part of this advice, and the part that seemed revolutionary and radical to a less-than-confident grad student, is the idea of just forming opinions almost as a game. **You don't have to be correct! But you have to try to evaluate your opinions.** Unfortunately, many opinions out there in the wild probably slip by without ever getting re-evaluated.
 
 Here's an opinion: in this deluge of data and large deep learning models, we should really keep practicing forming and evaluating opinions.  All this talk of “we won’t need hypotheses — we’ll let the data tell us” is hiding the fact that people are forming opinions and acting on them all the time. It’s misleading to think otherwise. Sure, your hypotheses can get more high-level. But tell me what they are.
 
