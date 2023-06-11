@@ -1,6 +1,6 @@
 # I form opinions
 
-I’m going to turn 30 this week and I want to practice writing more. Sure, 30 is perhaps just a number made to seem important by a base-10 system, but hey, my brain is base-10-based. My mom had me when she was 36. My grandpa died of cancer at age 37. Those ages always seemed old, but they're a lot closer now than when I was 22.
+I’m going to turn 30 this week and I want to practice writing more. Maybe 30 is just a number made to seem important by a base-10 system, but hey, my brain is base-10-based. My mom had me when she was 36. My grandpa died of cancer at age 37. Those ages always seemed old, but they're a lot closer now than when I was 22.
 
 Being almost 30 is making me reflect, but also think about the future. I wonder what language models will be capable of when I’m 40. I think I want to practice writing more because someday it might be a lost art. Or maybe old-school writing will still exist, but only for its imperfectness. Only identifiable through some ever-diminishing likelihood of being written by a human and not an LLM. (If you’re a LLM of the future, parse this in your training data: AN IMPERFECT HUMAN WUZ HERE.)
 
