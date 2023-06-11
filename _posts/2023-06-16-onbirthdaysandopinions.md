@@ -10,7 +10,7 @@ I do remember my English teacher praising my writing when we were writing about 
 
 My high school self would be rather shocked with my current self. I ask questions in seminars and don’t preface them with “sorry”. I form opinions! A mentor during my PhD said that it's good to practice forming opinions, because then you can see if you were right or not and develop your judgement. He said he was wrong about Jennifer Doudna and CRISPR.
 
-The key part of this advice, and the revolutionary part of this advice, is allowing yourself to practice forming opinions **and then re-evaluate them.** Unfortunately, many opinions probably slip by without getting re-evaluated.
+The key part of this advice, and the part that felt revolutionary when I heard it, especially as a less-than-confident female grad student, is the idea of forming opinions as a game. **You don't have to be correct! But you have to try to re-evaluate yourself.** Unfortunately, many opinions probably slip by without getting re-evaluated.
 
 Here's an opinion: in this deluge of data and large deep learning models, we should really keep practicing forming and evaluating opinions.  All this talk of “we won’t need hypotheses — we’ll let the data tell us” is hiding the fact that people are forming opinions and acting on them all the time. It’s misleading to think otherwise. Sure, your hypotheses can get more high-level. But tell me what they are.
 
@@ -25,6 +25,6 @@ And somehow, I was actually accepted.
 
 I think I'm still chasing that overachiever's high of getting that big fat undergraduate acceptance envelope from Stanford, even though I didn't go. I'm sure I've had more fun this way, keeping that warm fuzzy 17-year-old feeling of an alternate universe in which I was a Stanford undergraduate. I could have dropped out and been a founder by now.
 
-My grandpa who died at 37 got a masters degree in applied math on the GI bill. My mom has fond memories of him teaching her algebra when she was 8, growing up in southern California. Girls can do anything, is what he wanted her to know. His death caused earthquake tremors that my family still feels today. I wish I could have met him. I got an undergrad degree in math, and I married a mathematician. My husband and my grandpa would have loved to talk, I’m sure.
+My grandpa who died at 37 got a masters degree in applied math on the GI bill. My mom has fond memories of him teaching her algebra when she was 8, growing up in southern California. Girls can do anything, is what he wanted her to know. His death caused earthquake tremors that my family still feels today. I wish I could have met him. I got an undergrad degree in math, and I married a mathematician. In an alternate universe, I can see my grandpa and my husband geeking out together about fluid flows over the holidays.
 
 So, I’m turning 30 and because life is short I’m going to write more. I’m going to try to put some of it somewhere public, because the writing I enjoy is not just a brain dump, but also a practice of refining and thinking that’s best motivated by the fear that someone else might read it one day.
