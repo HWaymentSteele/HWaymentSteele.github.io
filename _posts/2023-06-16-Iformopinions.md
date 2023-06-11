@@ -12,7 +12,9 @@ My high school self would be rather shocked with my current self.
 
 I ask questions in seminars and don’t preface them with “sorry”.
 
-I form opinions! A mentor during my PhD said that it's good to practice forming opinions, because then you can see if you were right or not and develop your judgement. He said he was wrong about Jennifer Doudna and CRISPR.
+I form opinions!
+
+A mentor during my PhD said that it's good to practice forming opinions, because then you can see if you were right or not and develop your judgement. He said he was wrong about Jennifer Doudna and CRISPR.
 
 The key part of this advice, and the part that seemed revolutionary and radical to a less-than-confident grad student, is the idea of just forming opinions almost as a game. **You don't have to be correct! But you have to try to evaluate your opinions.** Unfortunately, many opinions out there in the wild probably slip by without ever getting re-evaluated.
 
