@@ -10,7 +10,7 @@ I do remember my English teacher praising one of my essays when we were reading 
 
 My high school self would be rather shocked with my current self. I ask questions in seminars and don’t preface them with “sorry”. I form opinions! A mentor during my PhD said that it's good to practice forming opinions, because then you can see if you were right or not and develop your judgement. He said he was wrong about Jennifer Doudna and CRISPR.
 
-The key part of this advice, and the part that seemed revolutionary and radical when I heard it, especially as a less-than-confident female grad student, is the idea of just forming opinions as a game. **You don't have to be correct! But you have to try to evaluate your opinions.** Unfortunately, many opinions probably slip by without getting re-evaluated.
+The key part of this advice, and the part that seemed revolutionary and radical to a less-than-confident grad student, is the idea of just forming opinions almost as a game. **You don't have to be correct! But you have to try to evaluate your opinions.** Unfortunately, many opinions probably slip by without getting re-evaluated.
 
 Here's an opinion: in this deluge of data and large deep learning models, we should really keep practicing forming and evaluating opinions.  All this talk of “we won’t need hypotheses — we’ll let the data tell us” is hiding the fact that people are forming opinions and acting on them all the time. It’s misleading to think otherwise. Sure, your hypotheses can get more high-level. But tell me what they are.
 
