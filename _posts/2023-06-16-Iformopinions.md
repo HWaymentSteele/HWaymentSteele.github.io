@@ -31,8 +31,6 @@ free verse is my specialty"
 
 And somehow, I was actually accepted.
 
-#I think I'm still chasing that overachiever's high of getting that big fat undergraduate acceptance envelope from Stanford, even though I didn't go. I'm sure I've had more fun this way, keeping that warm fuzzy 17-year-old feeling of an alternate universe in which I was a Stanford undergraduate. I could have dropped out and been a founder by now.
-
 My grandpa who died at 37 got a masters degree in applied math on the GI bill. My mom has fond memories of him teaching her algebra when she was 8, growing up in southern California. Girls can do anything, is what he wanted her to know. His death caused earthquake tremors that my family still feels today. I wish I could have met him. I got an undergrad degree in math, and I married a mathematician. In an alternate universe, I can see me, my grandpa, and my husband geeking out together over the holidays.
 
 So, I’m turning 30 and because life is short I’m going to write more. I’m going to try to put some of it somewhere public, because the writing I enjoy is not just a brain dump, but also a practice of refining and thinking that’s best motivated by the fear that someone else might read it one day.
