@@ -14,7 +14,7 @@ The key part of this advice, and the revolutionary part of this advice, is allow
 
 Here's an opinion: in this deluge of data and large deep learning models, we should really keep practicing forming and evaluating opinions.  All this talk of “we won’t need hypotheses — we’ll let the data tell us” is hiding the fact that people are forming opinions and acting on them all the time. It’s misleading to think otherwise. Sure, your hypotheses can get more high-level. But tell me what they are.
 
-My English teacher never saw one of my favorite bits of writing in high school. This was a college application essay for Stanford. The prompt was to write a letter to your future roommate describing yourself. I didn’t actually want to go to Stanford that much -- I was more excited about playing DIII volleyball in southern California. (Yes! a privilege to apply somewhere I wasn't dying to go.) My essay started with:
+My English teacher never saw one of my favorite bits of writing in high school. This was a college application essay for Stanford. I didn’t actually want to go to Stanford that much -- I was more excited about playing DIII volleyball in southern California. (Yes! a privilege to apply somewhere I wasn't dying to go.) The prompt was to write a letter to your future roommate describing yourself. My essay started with:
 
 "dear future roommate\
 please excuse my lack of capital letters, because i am a bug. typing is difficult at my size.\
