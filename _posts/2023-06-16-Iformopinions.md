@@ -18,7 +18,7 @@ A mentor during my PhD once encouraged me to practice forming opinions, because 
 
 The key part of this advice, and the part that seemed revolutionary and radical to a less-than-confident grad student, is the idea of just forming opinions almost as a game. **You don't have to be correct! But you have to try to evaluate your opinions.** Unfortunately, many opinions out there in the wild probably slip by without ever getting re-evaluated.
 
-Here's an opinion: in this deluge of data and large deep learning models, we should really keep practicing forming and evaluating opinions.  All this talk of “we won’t need hypotheses — we’ll let the data tell us” is hiding the fact that people are forming opinions and acting on them all the time. It’s misleading to think otherwise. Sure, your hypotheses can get more high-level. But tell me what they are.
+Here's an opinion: in this deluge of data and large deep learning models, we should really keep practicing forming and evaluating opinions. I think another word for that is forming hypotheses. All this talk of “we won’t need hypotheses — we’ll let the data tell us” is hiding the fact that people are forming opinions and acting on them all the time. It’s misleading to think otherwise. Sure, your hypotheses can get more high-level. But tell me what they are.
 
 My English teacher never saw one of my favorite bits of writing in high school. This was a college application essay for Stanford. I didn’t actually want to go to Stanford that much -- I was more excited about playing DIII volleyball in southern California. (Yes! a privilege to apply somewhere I wasn't dying to go.) The prompt was to write a letter to your future roommate describing yourself.
 
