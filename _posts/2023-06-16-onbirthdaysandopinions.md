@@ -12,7 +12,7 @@ My high school self would be rather shocked with my current self. I ask question
 
 The key part of this advice, and the part that seemed revolutionary and radical when I heard it, especially as a less-than-confident female grad student, is the idea of just forming opinions as a game. **You don't have to be correct! But you have to try to evaluate your opinions.** Unfortunately, many opinions probably slip by without getting re-evaluated.
 
-I also think about my mentor being incorrect about Jennifer Doudna when people doubt me. Someone doubting me might just be their being-incorrect-about-Jennifer-Doudna moment.
+Another side effect of that advice is that when people doubt me, I try to remember that mentor, who by all accounts is a very smart man, being incorrect about Jennifer Doudna.
 
 Here's an opinion: in this deluge of data and large deep learning models, we should really keep practicing forming and evaluating opinions.  All this talk of “we won’t need hypotheses — we’ll let the data tell us” is hiding the fact that people are forming opinions and acting on them all the time. It’s misleading to think otherwise. Sure, your hypotheses can get more high-level. But tell me what they are.
 
