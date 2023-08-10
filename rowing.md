@@ -26,7 +26,7 @@ In 2022 we took 1st place in the Head of the Charles Womens Club 8+.
 <img src="https://HWaymentSteele.github.io/images/HOCR_2022.jpg">
 Image: Igor Belakovskiy
 
-The friendship, teamwork, detemrination, and courage I've experienced as a rower and teammate have absolutely shaped who I am in the rest of my life.
+The friendship, teamwork, determination, and courage I've experienced as a rower and teammate have absolutely shaped who I am in the rest of my life.
 
 <img src="https://HWaymentSteele.github.io/images/IMG_6499.jpg">
 Image: Peter Frederick
