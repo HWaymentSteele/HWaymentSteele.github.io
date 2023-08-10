@@ -30,6 +30,7 @@ The friendship, teamwork, detemrination, and courage I've experienced as a rower
 
 <img src="https://HWaymentSteele.github.io/images/IMG_6499.jpg">
 Image: Peter Frederick
+
 ---
 
 Sometimes we even smile while rowing!
