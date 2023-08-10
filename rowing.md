@@ -15,7 +15,7 @@ I represented the USA in the World Rowing Coastal Championships in 2019 and 2021
 <img src="https://HWaymentSteele.github.io/images/IMG_6921.png">
 Image: World Rowing
 
-In 2019, I became the first woman to win the 47th annual bridge-to-bridge race held in the San Francisco Bay,
+In 2019, I became the first woman to win the San Francisco "Bridge-to-Bridge" race in its 47th year,
 a 10-mile race that goes under the Golden Gate and the Bay Bridge.
 
 <img src="https://HWaymentSteele.github.io/images/goldengate.jpg"  style="float:center;width:500px;">
