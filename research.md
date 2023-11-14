@@ -19,8 +19,10 @@ AlphaFold2 (AF2) has revolutionized structural biology by accurately predicting 
 </p>
 
 I'm really excited about what AF-cluster and future methodological improvements could enable -- the ability to systematically screen for interesting novel mechanisms based on multiple conformational substates, and discover new biology from the ground up.
-  
-Wayment-Steele, H.K., Ovchinnikov, S., Colwell, L.J., Kern, D. (2022) Prediction of multiple conformational states by combining sequence clustering with AlphaFold2. [bioRxiv](https://doi.org/10.1101/2022.10.17.512570)
+
+Wayment-Steele, H.K.\*, Ojoawo, A.\*, ... Ovchinnikov, S., Colwell, L., Kern, D. Predicting multiple conformations via sequence clustering and AlphaFold2. Nature (2023). [doi](https://doi.org/10.1038/s41586-023-06832-9)
+
+["Behind the paper" Blog post](https://cellmolbiocommunity.springernature.com/posts/predicting-multiple-conformations-via-sequence-clustering-and-alphafold2)
 
 ## Designing stabilized mRNA therapeutics
 
