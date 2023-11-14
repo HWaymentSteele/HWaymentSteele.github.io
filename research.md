@@ -15,14 +15,16 @@ I've worked on a diverse set of topics, but underlying all my research is a wish
 <p>
 <img src="https://hwaymentsteele.github.io/images/foldswitchers.png" style="float:right;width:400px;">
 
-AlphaFold2 (AF2) has revolutionized structural biology by accurately predicting single structures of proteins, but biological function is rooted in a protein’s ability to sample different conformational substates. We demonstrated that simply clustering an input multiple sequence alignment (MSA) by sequence similarity enables AF2 to sample alternate states of known metamorphic proteins and score these states with high confidence. We used our clustering method, AF-cluster, to screen for alternate states in protein families without known fold-switching, and identified a putative alternate state for the oxidoreductase DsbE. Similarly to KaiB, DsbE is predicted to switch between a thioredoxin-like fold and a novel fold. This prediction is the subject of ongoing experimental testing in the Kern lab.
+AlphaFold2 (AF2) has revolutionized structural biology by accurately predicting single structures of proteins, but biological function is rooted in a protein’s ability to sample different conformational substates. We demonstrated that simply clustering an input multiple sequence alignment (MSA) by sequence similarity enables AF2 to sample alternate states of known metamorphic proteins and score these states with high confidence. We used information gained from the clustering to design and validate a minimal set of point mutations to flip the population of KaiB from one state to the other.
+
+We used our clustering method, AF-cluster, to screen for alternate states in protein families without known fold-switching, and identified a putative alternate state for the oxidoreductase Mpt53, secreted by *M. tuberculosis* during infection. Similarly to KaiB, Mpt53 is predicted to switch between a thioredoxin-like fold and a novel fold.
 </p>
 
 I'm really excited about what AF-cluster and future methodological improvements could enable -- the ability to systematically screen for interesting novel mechanisms based on multiple conformational substates, and discover new biology from the ground up.
 
-Wayment-Steele, H.K.\*, Ojoawo, A.\*, ... Ovchinnikov, S., Colwell, L., Kern, D. Predicting multiple conformations via sequence clustering and AlphaFold2. Nature (2023). [doi](https://doi.org/10.1038/s41586-023-06832-9)
+Wayment-Steele, H.K.\*, Ojoawo, A.\*, ... Kern, D. Predicting multiple conformations via sequence clustering and AlphaFold2. Nature (2023). [doi](https://doi.org/10.1038/s41586-023-06832-9)
 
-["Behind the paper" Blog post](https://cellmolbiocommunity.springernature.com/posts/predicting-multiple-conformations-via-sequence-clustering-and-alphafold2)
+["Behind the paper" blog post](https://cellmolbiocommunity.springernature.com/posts/predicting-multiple-conformations-via-sequence-clustering-and-alphafold2)
 
 ## Designing stabilized mRNA therapeutics
 
